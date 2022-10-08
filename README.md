@@ -1,4 +1,4 @@
-### Interest: Statistical Modeling | R Programming 
+### Interests: Applied Statistics | Statistical Modelling | R Programming 
 
 ![faosorios' GitHub stats](https://github-readme-stats.vercel.app/api?username=faosorios&count_private=true&hide_border=true)
 
