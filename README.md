@@ -2,7 +2,7 @@
 
 You can find out more about me at <http://fosorios.mat.utfsm.cl/>
 
-I am statistician, and my interest are:
+I am statistician, and my interests are:
 - Applied Statistics
 - R Programming
 
