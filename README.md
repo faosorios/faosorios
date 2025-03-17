@@ -1,9 +1,13 @@
 # Felipe Osorio
 
-You can find out more about me at <http://fosorios.mat.utfsm.cl/>
+You can find out more about me at <https://faosorios.github.io/>
 
 I am statistician, and my interests are:
 - Applied Statistics
+- Statistical Modelling
+- Likelihood-based Inference
+- Longitudinal Data Analysis
+- Statistical Diagnostics
 - R Programming
 
 ## GitHub Stats
