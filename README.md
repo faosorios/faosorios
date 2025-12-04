@@ -9,7 +9,7 @@ I am statistician, and my interests are:
 - Longitudinal Data Analysis
 - Statistical Diagnostics
 - R Programming
-- 
+
 <!--
 ## GitHub Stats
 
