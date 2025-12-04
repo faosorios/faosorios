@@ -9,10 +9,12 @@ I am statistician, and my interests are:
 - Longitudinal Data Analysis
 - Statistical Diagnostics
 - R Programming
-
+- 
+<!--
 ## GitHub Stats
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faosorios&layout=compact&hide=html,css,javascript,jupyter%20notebook,php)]()
+-->
 
 <!--
 **faosorios/faosorios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
